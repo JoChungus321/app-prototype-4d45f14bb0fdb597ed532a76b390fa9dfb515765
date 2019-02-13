@@ -1,6 +1,6 @@
 # Student Organization App
 
-##Team Members
+## Team Members
 
 ### Joseph Fernandez
 
@@ -10,4 +10,5 @@ Here are a list of my skills:
 
 * Drawing
 * Time Management
-* 
+* Team Leader
+* Multitasking
